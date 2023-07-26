@@ -21,7 +21,7 @@ spec:url; type:dfn; text:origin
     "title":"Secure Hash Standard (SHS) (FIPS PUB 180-4)",
     "authors": ["National Institute of Standards and Technology"],
     "publisher":"NIST",
-    "id":"FIPS 180-4",
+    "id":"FIPS 180-3",
     "date": "August 2015"
   }
 }
